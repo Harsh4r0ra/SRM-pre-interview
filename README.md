@@ -57,4 +57,4 @@ This project focuses on building a text classification system using BERT to cate
 
 - Integrate the fine-tuned BERT classifier into a customer service chatbot.
 - Use the classifier to automatically route customer queries to the appropriate department (Technical Support or General Inquiry).
-- Monitor the chatbot's performance and gather feedback from users to continuously improve the system
+- Monitor the chatbot's performance and gather feedback from users to continuously improve the system.
